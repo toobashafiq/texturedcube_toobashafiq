@@ -1,7 +1,7 @@
  HCI Lab 05 – Personalized Textured Cube
 
 Name: Tooba Shafiq  
-Seat Number: 173  
+Seat Number: B23110006173 
 Course: BSCS III B 
 
  Project Description
