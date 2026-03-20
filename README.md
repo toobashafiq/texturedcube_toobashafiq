@@ -1,9 +1,10 @@
  **HCI Lab 05 – Personalized Textured Cube**
 
 **Name: Tooba Shafiq**
+
 **Seat Number: B23110006173**
 
-**Course: BSCS III B**
+**Batch: BSCS III B**
 
 **Project Description**
 This project is my submission for Lab 05 in Human-Computer Interaction.  
