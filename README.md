@@ -9,6 +9,5 @@
 **Project Description**
 This project is my submission for Lab 05 in Human-Computer Interaction.  
 It features a rotating 3D cube, personalized with my name, seat number, and custom textures on each face.
-
 **Live Link**
-https://toobashafiq.github.io/hci-button-lab-toobashafiq173
+https://texturedcubetoobashafiq.vercel.app/
